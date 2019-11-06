@@ -14,6 +14,24 @@ Requirements:
 5. Numpy 1.14
 6. Pandas 0.22
 
+## Files
+
+#### Core Files
+- ml_util.py: Utility file for basic machine learning methods
+- rdkit_util.py: Utility file for RDKit methods (for fingerprint generation/transformation etc)
+
+#### Notebooks 
+- analyzeMonomers.ipynb: Explore the molecules that are best and worst predicted as well as with least and highest HOMO values
+- ml_1024bit_fingerprints.ipynb: Explore ML models on 1024 bit compressed fingerprints  
+- ml_reduced_fingerprints.ipynb: Explore ML models on reduced fingerprints (after feature selection on original uncompressed fingerprints)
+- correlation.ipynb: Explore the correlation among top predictors (features) and target variable (HOMO) 
+- ml_experimental_OPV.ipynb: Explore ML on the experimental part of the HOPV dataset 
+- gridsearch.ipynb: Grid Search models 
+- ml_calculate_boltzmann.ipynb: Explore ML models after calculating boltzmann average for the conformers of each molecule (other models are based on arithmetic average) 
+
+## Data 
+HOPV_15.data contains the DFT (for all conformers) and experimental values for the HOPV dataset 
+
 ## Citation
 
 If you use this code or data, please cite:
