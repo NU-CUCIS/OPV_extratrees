@@ -1,11 +1,18 @@
 # OPV_extratrees
 
-
+In this work, extremely randomized tree (extratrees) learning models are employed for the prediction of HOMO values for donor compounds. 
 
 ## Developer Team
 
 The code was developed by the <a href="http://cucis.ece.northwestern.edu/">CUCIS</a> group at the Electrical and Computer Engineering Department at Northwestern University. 
 
+Requirements: 
+1. Keras 2.0 or higher
+2. Tensorflow 1.7 
+1. RDKit 2017.09.1
+2. Scikit-Learn 0.19.1
+5. Numpy 1.14
+6. Pandas 0.22
 
 ## Citation
 
