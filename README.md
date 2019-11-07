@@ -2,10 +2,6 @@
 
 In this work, extremely randomized tree (extratrees) learning models are employed for the prediction of HOMO values for donor compounds. 
 
-## Developer Team
-
-The code was developed by the <a href="http://cucis.ece.northwestern.edu/">CUCIS</a> group at the Electrical and Computer Engineering Department at Northwestern University. 
-
 Requirements: 
 1. Keras 2.0 or higher
 2. Tensorflow 1.7 
@@ -31,6 +27,10 @@ Requirements:
 
 ## Data 
 HOPV_15.data contains the DFT (for all conformers) and experimental values for the HOPV dataset 
+
+## Developer Team
+
+The code was developed by the <a href="http://cucis.ece.northwestern.edu/">CUCIS</a> group at the Electrical and Computer Engineering Department at Northwestern University. 
 
 ## Citation
 
