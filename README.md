@@ -1,6 +1,5 @@
 # OPV_extratrees
-
-In this work, extremely randomized tree (extratrees) learning models are employed for the prediction of HOMO values for donor compounds. 
+Organic solar cells are an inexpensive, flexible alternative to traditional silicon-based solar cells. In this work, extremely randomized tree learning models are employed for the prediction of HOMO values for donor molecules in organic solar cells. The proposed model outperform neural networks trained on molecular fingerprints as well as SMILES, as well as other state-of-the-art architectures such as Chemception and Molecular Graph Convolution on two datasets of varying sizes.
 
 Requirements: 
 1. Keras 2.0 or higher
