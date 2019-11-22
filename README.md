@@ -32,6 +32,14 @@ HOPV_15.data contains the DFT (for all conformers) and experimental values for t
 
 The code was developed by the <a href="http://cucis.ece.northwestern.edu/">CUCIS</a> group at the Electrical and Computer Engineering Department at Northwestern University. 
 
+1. Arindam Paul (arindam.paul@eecs.northwestern.edu)
+2. Ankit Agrawal (ankitag@eecs.northwestern.edu)
+3. Wei-keng Liao (wkliao@eecs.northwestern.edu)
+4. Alok Choudhary (choudhar@eecs.northwestern.edu)
+
+
+The development team would like thank our collaborator <a href="https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=40386">Prof. Alona Furmanchuk</a> at Northwestern's school of medicines for helping us with her expertise in molecular modeling. 
+
 ## Citation
 
 If you use this code or data, please cite:
@@ -40,7 +48,7 @@ Arindam Paul, Alona Furmanchuk, Wei-keng Liao, Alok Choudhary, Ankit Agrawal. Pr
 
 ## Questions/Comments:
 
-email: apaul@u.northwestern.edu<br/>
+email: arindam.paul@eecs.northwestern.edu or ankitag@eecs.northwestern.edu</br>
 Copyright (C) 2019, Northwestern University.<br/>
 See COPYRIGHT notice in top-level directory.
 
