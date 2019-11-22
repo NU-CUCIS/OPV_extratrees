@@ -38,7 +38,7 @@ The code was developed by the <a href="http://cucis.ece.northwestern.edu/">CUCIS
 4. Alok Choudhary (choudhar@eecs.northwestern.edu)
 
 
-The development team would like thank our collaborator <a href="https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=40386">Prof. Alona Furmanchuk</a> at Northwestern's school of medicines for helping us with her expertise in molecular modeling. 
+The development team would like thank our collaborator <a href="https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=40386">Prof. Alona Furmanchuk</a> at Northwestern University Feinberg School of Medicine. 
 
 ## Citation
 
